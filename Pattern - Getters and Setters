@@ -1,0 +1,7 @@
+# A common pattern you'll find in code:
+#
+#   Argument to __init__ passes initial value
+#   Value is assigned to a private attribute
+#   @property method with same name uses the private attribute
+#   @.setter method with same name sets the private attribute
+#       with error coding
